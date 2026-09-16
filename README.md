@@ -17,7 +17,7 @@ The project is organized into several Python scripts, each responsible for a spe
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/maxxrail/resume-parser.git
+   git clone https://github.com/EthanDooh-gif/resume-parser.git
    cd resume-parser
 
 2. Install dependancies:
